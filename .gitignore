@@ -1,0 +1,12 @@
+# 다운로드된 PDF 파일 제외
+*.pdf
+
+# 임시 실행 폴더 및 로그 제외
+tmp_*/
+EdgeCDP_*/
+*.log
+
+# 시스템 파일 제외
+Thumbs.db
+Desktop.ini
+.DS_Store
